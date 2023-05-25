@@ -16,7 +16,7 @@ Desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-- Acesse o projeto clicando [aqui](https://a-paulaassuncao.github.io/Unes_Universidade/).
+- Acesse o projeto clicando [aqui](https://a-paulaassuncao.github.io/unes_universidade/).
 
 ---
 
